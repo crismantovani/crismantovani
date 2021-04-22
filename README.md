@@ -43,4 +43,6 @@ Here are some ideas to get you started:
 <img src="https://camo.githubusercontent.com/171baaa1a9a5bfe0dc77a07fa122d7640030c956493aed97ec826070e342f0d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c2d436f72655f69352d2d313074682d3030373143353f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c266c6f676f436f6c6f723d7768697465"></img> &nbsp;<img src="https://camo.githubusercontent.com/cf1690bcf8653035194aecc7d8b273d7c1e780db61fc58afa3bc7de1637fc08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e56494449412d475458313635302d3736423930303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e7669646961266c6f676f436f6c6f723d7768697465"></img><img src=""></img><img src=""></img>
 
 <h2>GitHub Stats</h2>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crismantovani&show_icons=true&theme=prussian)
+
+[![Cris Mantovani](https://github-readme-stats.vercel.app/api?username=crismantovani&show_icons=true&theme=prussian)](https://github.com/crismantovani)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crismantovani&layout=compact)](https://github.com/crismantovani)
+
