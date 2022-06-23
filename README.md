@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 👩‍💻 I’m a front-end developer @Avanade and I love everything about IT. 
 
-🔭 I’m currently working on Angular 12, Bootstrap 5 and TypeScript.
+🔭 I’m currently working on React Native and TypeScript.
 
 👩‍🎓 I am a freshman in Internet Systems at FIAP.
 
