@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## ⚛️ 🌈 ⚒ 👩‍💻 🧩 🚀 
 </div>
 
-👩‍💻 I’m a front-end developer @Avanade and I love everything about IT. 
+👩‍💻 I’m a front-end developer and I love everything about IT. 
 
 🔭 I’m currently working on React Native and TypeScript.
 
